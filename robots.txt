@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /tags/
 Disallow: /404.html
 Disallow: /googlee2ec0427acbadbba.html
-Sitemap: https://tungtran.is-a.dev/sitemap.xml
+Sitemap: https://tathub.io.vn/sitemap.xml

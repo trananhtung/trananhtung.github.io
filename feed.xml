@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Đang suy nghĩ 🤔</title>
+  <title>Tùng's Blog | Đang suy nghĩ 🤔</title>
   <subtitle>Suy ngẫm về lập trình, công nghệ và triết lý làm việc</subtitle>
-  <link href="https://tungtran.is-a.dev/feed.xml" rel="self"/>
-  <link href="https://tungtran.is-a.dev/" rel="alternate" type="text/html"/>
+  <link href="https://tathub.io.vn/feed.xml" rel="self"/>
+  <link href="https://tathub.io.vn/" rel="alternate" type="text/html"/>
   <updated>Fri, 08 Dec 2023 13:25:15 GMT</updated>
-  <id>https://tungtran.is-a.dev/</id>
+  <id>https://tathub.io.vn/</id>
   <author>
     <name>Tung Tran</name>
     <email>tunganhtran94@gmail.com</email>
   </author>
   <entry>
     <title>Suy nghĩ về nợ kỹ thuật (tech-debit)</title>
-    <link href="https://tungtran.is-a.dev/blog/suy-nghi-ve-no-ky-thuat/"/>
+    <link href="https://tathub.io.vn/blog/suy-nghi-ve-no-ky-thuat/"/>
     <published>Fri, 08 Dec 2023 13:25:15 GMT</published>
-    <id>https://tungtran.is-a.dev/blog/suy-nghi-ve-no-ky-thuat/</id>
+    <id>https://tathub.io.vn/blog/suy-nghi-ve-no-ky-thuat/</id>
     <category term="suy ngẫm" />
     <content type="html">Đời có gì sướng bằng việc ta cứ mắt nợ, nhưng người trả nợ không phải là ta</content>
   </entry>
